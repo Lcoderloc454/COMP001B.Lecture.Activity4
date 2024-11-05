@@ -1,0 +1,29 @@
+header, .intro, .showcase, .styled-link, .styled-button {
+    background-color: gray;
+    color: rgb(19, 4, 235);
+}
+
+a.styled-link {
+    color: rgba(rgb(63, 16, 16), rgb(37, 78, 37), rgb(93, 93, 165), alpha);
+}
+
+.styled-button {
+    background-color: rgb(red, green, blue);
+    color: rgb(71, 18, 71);
+    border: none;
+    padding: 20px 30px;
+    cursor: pointer;
+}
+
+.styled-button:hover {
+    background-color: rgb(rgb(100, 23, 23), rgb(64, 94, 64), rgb(25, 25, 83));
+}
+
+p {
+    color: black;
+    font-size: 1rem;
+}
+
+h1, h2, h3 {
+    color: black;
+}
